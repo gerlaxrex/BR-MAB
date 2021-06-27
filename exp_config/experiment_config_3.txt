@@ -1,0 +1,109 @@
+12 100 123
+0 0 2 6 100000
+BernoulliNonStationary 2 0.46 50000 0.54 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+1 0 2 6 100000
+BernoulliNonStationary 2 0.54 50000 0.46 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+2 0 2 6 100000
+BernoulliNonStationary 2 0.4 50000 0.6 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+3 0 2 6 100000
+BernoulliNonStationary 2 0.6 50000 0.4 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+4 0 2 6 100000
+BernoulliNonStationary 2 0.2 50000 0.8 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+5 0 2 6 100000
+BernoulliNonStationary 2 0.8 50000 0.2 100000
+BernoulliNonStationary 1 0.5 100000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+6 0 2 6 1000000
+BernoulliNonStationary 2 0.46 500000 0.54 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+7 0 2 6 1000000
+BernoulliNonStationary 2 0.54 500000 0.46 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+8 0 2 6 1000000
+BernoulliNonStationary 2 0.4 500000 0.6 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+9 0 2 6 1000000
+BernoulliNonStationary 2 0.6 500000 0.4 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+10 0 2 6 1000000
+BernoulliNonStationary 2 0.2 500000 0.8 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1
+11 0 2 6 1000000
+BernoulliNonStationary 2 0.8 500000 0.2 1000000
+BernoulliNonStationary 1 0.5 1000000
+ucb1 ucb1
+d_ucb round 2 d_ucb _d_ucb
+sw_ucb round 2 sw_ucb _sw_ucb
+adapt_eve _adapt_eve
+cusum_ucb _cd_algorithm 0 1
+cusum_ucb_history _cd_algorithm 1 1

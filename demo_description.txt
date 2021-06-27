@@ -1,0 +1,6 @@
+Reproducible Research (RR) instructions:
+
+1.0) Run the script 'scripts/exp_demo_generator.py' in order to generate the experimental file (default is the synthetic setting in the paper).
+1.1) (make)
+2) Run the command './bin/main' and begin the experiment.
+3) Images of the experiments will be saved in the 'results' folder with a text file of the final regret results.

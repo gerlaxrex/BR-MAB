@@ -1,0 +1,163 @@
+27 100 141
+0 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+1 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+2 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+3 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+4 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+5 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+6 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+7 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+8 0 2 3 100000
+BernoulliNonStationary 1 0.2 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+9 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+10 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+11 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+12 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+13 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+14 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+15 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+16 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+17 0 2 3 100000
+BernoulliNonStationary 1 0.7 100000
+BernoulliNonStationary 1 0.8 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+18 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+19 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+20 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.01 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+21 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+22 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+23 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.02 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+24 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 8 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+25 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 9 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+26 0 2 3 100000
+BernoulliNonStationary 1 0.1 100000
+BernoulliNonStationary 1 0.2 100000
+ucb1 round 2 ucb1 ucb1
+cusum_ucb cd_algorithm 0 1 0 30 0 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
+cusum_ucb_history_all cd_algorithm 2 1 0 30 100000 1 5 cusum 30 0.04 10 1 9 round round 6 alg_with_exploration alg_with_exploration 0 2 ucb1 ucb1
