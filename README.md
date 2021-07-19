@@ -7,7 +7,7 @@
 
 #### Purpose
 
-This repository contains the code used for testing and performing the experiments described in the paper _**"Exploiting History Data for Nonstationary Multi-armed Bandits"**_ by _G.Re, F. Chiusano, F. Trovò, D. Carrera, G. Boracchi and M. Restelli_.
+This repository contains the code used for testing and performing the experiments described in the paper _**"Exploiting History Data for Nonstationary Multi-armed Bandits"**_ by _G. Re, F. Chiusano, F. Trovò, D. Carrera, G. Boracchi and M. Restelli_.
 There are some "ready-to-use" experiments that can be ran simply by following the instructions written in the last section of this description, but the user could define its own settings (only a basic knowledge of Python is required in order to do it).
 
 #### Code
