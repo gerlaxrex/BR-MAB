@@ -20,5 +20,24 @@ In addition, here we added:
   - Statistical and similarity tests.
   - the framework proposed in our paper, the **BR-MAB**.
 
-#### Instructions
+#### Instructions (RR)
+
+Reproducible Research (RR) instructions:
+
+  1. Run the script ```'scripts/exp_demo_generator.py'``` in order to generate the experimental file (default is the synthetic setting in the paper).
+  2. ```make```
+  2. Run the command ```'./bin/main'``` and begin the experiment.
+  3. Images of the experiments will be saved in the ```'results'``` folder with a text file of the final regret results.
+
+#### Bibliography
+
+
+[1] Auer, P., Cesa-Bianchi, N., and Fischer, P. (2002). Finite-time analysis of the multiarmed bandit problem. Machine learning, 47(2-3):235–256.
+[2] Thompson, W. R. (1933). On the likelihood that one unknown probability exceeds another in view of the evidence of two samples.
+[3] Liu, F., Lee, J., and Shroff, N. B. (2018). A change-detection based framework for piecewise-stationary multi-armed bandit problem. In AAAI.
+[4] Kaufmann, Emilie, Olivier Cappé, and Aurélien Garivier. "On Bayesian upper confidence bounds for bandit problems." Artificial intelligence and statistics. PMLR, 2012.
+[5] Cao, Y., Wen, Z., Kveton, B., and Xie, Y. (2019). Nearly optimal adaptive procedure with change detection for piecewise-stationary bandit.
+[6]Neyman, J. and Pearson, E. S. (1933). On the problem of the most efficient tests of statistical hypotheses. Philosophical Transactions of the Royal Society of London. Series A, Containing Papers of a Mathematical or Physical Character, 231:289–337.
+[7] Auer, P., Cesa-Bianchi, N., and Fischer, P. (2002). Finite-time analysis of the multiarmed bandit problem. Machine learning, 47(2-3):235–256.
+
 
