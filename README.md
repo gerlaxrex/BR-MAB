@@ -3,7 +3,7 @@
 # BR-MAB
 ### Code for the BR-MAB framework applicable to non-stationary multi-armed bandits.
 
-📜 **Paper**: <a href="https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_1017.pdf" target= _blank>Exploiting History Data for Nonstationary MAB</a>
+📜 **Paper**: <a href="https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_1017.pdf" target="_blank">Exploiting History Data for Nonstationary MAB</a>
 
 #### Purpose
 
